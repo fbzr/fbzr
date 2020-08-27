@@ -1,7 +1,5 @@
 ### Hi there, I'm Fabricio 👋
 
-<br>
-
 I'm a software engineer with hands-on experience working with modern Javascript technologies like React and Redux, design/styling libraries like Material-UI, Styled Components, Ant Design and Bootstrap and another variety of third party libraries.
 
 I'm also proficient on the back-end working with technologies like Node.js Express and GraphQL Apollo servers and creating API's using relational and non-relational databases like Postgres and MongoDB.
