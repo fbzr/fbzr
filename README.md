@@ -11,8 +11,6 @@ forgetting to have fun doing it.
 
 #### Let's Connect! :computer:
 
-<i class="ri-linkedin-fill"></i>
-
 - [fabriciobezerra.com](https://www.fabriciobezerra.com/)
 - [LinkedIn](https://www.linkedin.com/in/fabricio-bezerra/)
 
