@@ -11,7 +11,7 @@ forgetting to have fun doing it.
 
 #### Let's Connect! :computer:
 
-<a href="https://www.linkedin.com/in/fabricio-bezerra/">
+<a target="_blank" style="hover:text-decoration: none" href="https://www.linkedin.com/in/fabricio-bezerra/">
   <img height="32" width="32" alt="Fabricio's Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 - [fabriciobezerra.com](https://www.fabriciobezerra.com/)
